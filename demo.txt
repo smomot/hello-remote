@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-New content
-=======
-New content
->>>>>>> cb6ae9ad9412b9ab282978a5df84afd177f07286
+Here is sopme text we added into demo.txt
